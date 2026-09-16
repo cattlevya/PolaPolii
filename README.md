@@ -1,11 +1,11 @@
-# 📱 Tugas Pengenalan Pola — Mobile Price Classification
+# Tugas Pengenalan Pola — Mobile Price Classification
 
 Implementasi 6 algoritma klasifikasi **Machine Learning** untuk tugas mata kuliah Pengenalan Pola.  
 Dataset: [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Install dependensi
@@ -25,7 +25,7 @@ python run_single.py --model adaboost
 
 ---
 
-## 📊 Hasil Performa (Validation Set — Stratified 80:20)
+## Hasil Performa (Validation Set — Stratified 80:20)
 
 | Rank | Metode                    | Accuracy | F1-Score |
 |------|---------------------------|----------|----------|
@@ -38,7 +38,7 @@ python run_single.py --model adaboost
 
 ---
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```
 Tugas/
@@ -69,7 +69,7 @@ Tugas/
 
 ---
 
-## 📚 Dokumentasi Lengkap
+## Dokumentasi Lengkap
 
 Lihat **[PANDUAN_PENGGUNAAN.md](PANDUAN_PENGGUNAAN.md)** untuk:
 - Penjelasan teori & formulasi matematika setiap metode
