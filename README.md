@@ -38,6 +38,7 @@ python run_single.py --model adaboost
 
 ---
 
+<<<<<<< HEAD
 ## Grafik Perbandingan Performa
 
 ![Perbandingan Akurasi dan F1-Score Seluruh Model](outputs/figures/model_comparison.png)
@@ -98,6 +99,8 @@ Naive Bayes menghasilkan akurasi terendah karena dua asumsi utamanya dilanggar: 
 
 ---
 
+=======
+>>>>>>> 024c6b6c23e59afd6afe1a94c4bdea91d759996d
 ## Struktur Proyek
 
 ```
